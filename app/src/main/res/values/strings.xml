@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Obras_Arte</string>
+    <string name="titulo_casal">O Casal Arnolfini</string>
+    <string name="autor_casal">Jan van Eyck</string>
+    <string name="anterior">Anterior</string>
+    <string name="proxima_obra">Proxima</string>
+    <string name="titulo_ronda"> A Ronda Noturna</string>
+    <string name="autor_ronda">Rembrandt</string>
+    <string name="titulo_meninas">As Meninas</string>
+    <string name="autor_meninas">Diego Velázquez</string>
+    <string name="titulo_medusa">Medusa</string>
+    <string name="autor_medusa"> Caravaggio</string>
+</resources>
